@@ -1,7 +1,8 @@
 # Python_Diwali_Sales_Analysis
 
-Python Project for Data Analysis- Exploratory Data Analysis | Data Analyst Project
-Project Learnings
+𝐏𝐲𝐭𝐡𝐨𝐧 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐟𝐨𝐫 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬
+𝐄𝐱𝐩𝐥𝐨𝐫𝐚𝐭𝐨𝐫𝐲 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬  
+𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠𝐬
 · Performed data cleaning and manipulation
 · Performed exploratory data analysis (EDA) using
 pandas, matplotlib and seaborn libraries
